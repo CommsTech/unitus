@@ -14,7 +14,7 @@ Every aspect of this project will be driven by the community, for the community.
 * _Multi-Algorithm_:
   * Blake256 (8-round)
   * Skein
-  * Qubit
+  * Argon2d
   * X11
   * Yescrypt
 * All algorithms can be merge-mined (AuxPoW)
